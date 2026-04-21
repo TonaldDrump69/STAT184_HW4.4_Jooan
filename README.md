@@ -1,28 +1,28 @@
-# Project Title
+# HW #4.3 Reproducible Analysis
 
-Write a 1-2 sentences that quickly and clearly convey what your repo is for.
+This repo contains my STAT 184 HW #4.4 GitHub practice and the HW #4.3 project.
 
 ## Overview
+HW #4.3 is a Quarto-based analysis including
+1. airport traffic trends
+2. Monte Carlo simulation
+3. AI prompting comparison
 
-Expand on those introductory sentences with a brief but informative description of your project's purpose and goals. This section should help visitors decide whether they should dig deeper into your repo/project.
+## Data
+Airport data from Wikipedia (busiest airports).  
+Monte Carlo section uses simulated data from previous homework.
 
-### Interesting Insight (Optional)
+## Plan
+Build a repo with
+1. project files (PDF + QMD)
+2. Branch, issues, pull request
+(Check plan.md for details)
 
-This is optional but highly recommended. You'll include one interesting insight from your project as part of the README. This insight is most effective when you include a visual. Keep in mind that this visual must be included as an image file (e.g., JPG, PNG, etc.). You can export plots created with `{ggplot2}` by using the function `ggsave`.
+## Structure
+1. readme.md
+2. plan.md
+3. HW4_3.pdf
+4. HW4_3.qmd
 
-## Data Sources and Acknowledgements
-
-Be sure to list where you got any data used within the project. Be sure to acknowledge any one whose work or elements you're drawing upon.
-
-## Current Plan
-
-Provide some information about what you intend to doe with the project. You can additionally refer the visitor to your detailed plan document.
-
-## Repo Structure
-
-Use this section to explain the structure of your repo. This should help visitors quickly figure out where they should look to find certain elements. Further, you can use this space to highlight and briefly explain important/key files in the repo.
-
-
-## Authors
-
-Give information about who are the authors of the project and how people can get in touch if they have questions.
+## Author
+Jooan Choi
