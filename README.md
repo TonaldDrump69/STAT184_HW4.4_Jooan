@@ -26,3 +26,5 @@ Build a repo with
 
 ## Author
 Jooan Choi
+
+This final version is branched from STAT184_HW4.4_Jooan
